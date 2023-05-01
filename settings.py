@@ -3,7 +3,7 @@ import os
 import logging
 
 #--- Bot Secrets Configuration ---#
-token = "OTg4MTY2OTc4NjE3MzUyMTky.GExcd-.9cQOocCOFcROtwYSJk7lMRCL_EjcktvH3fALyM"
+token = ""
 bot_prefix = "!"
 
 #--- Anything Here ---#
